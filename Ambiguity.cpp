@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Base1
+class greet
 {
 public:
     void show()
@@ -9,7 +9,7 @@ public:
         cout<<"Hello"<<endl;    
     }
 };
-class Base2
+class name
 {
 public:
     void show()
